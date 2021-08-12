@@ -33,7 +33,7 @@ Utilizei o padrão criacional Factory Method para criar o objeto TabelaInss dent
 Na classe abstrata TabelaInss criei o método "abstract CalcularDesconto" para que as subclasses implementem este método pois, caso o cálculo do desconto do INSS sofra alguma modificação nos próximos anos, evitamos que a classe CalculadorInss tenha que sofrer alguma modificação no futuro.
 
 
-Para facilitar o entendimento da solução e do uso do Factory Method, criei um diagrama de classes, CalculadorInss.png, que está presente dentro do diretório Problemas c#/Problemas.
+Para facilitar o entendimento da solução e do uso do Factory Method, criei um diagrama de classes CalculadorInss.png.
 
 
 ![CalculadorInss](CalculadorInss.png)
