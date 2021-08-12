@@ -21,9 +21,11 @@ Foi utilizado o Visual Studio 2019 para a resolução do problema.
 ![DIP](DIP.png)
 
 
+
 <h2>Design Pattern utilizado para resolver o problema: </h2>
 
 Utilizei o padrão criacional Factory Method para criar o objeto TabelaInss dentro do método CalcularDesconto, de forma que o objeto é criado sem necessidade de posterior modificação da classe CalculadorInss. 
+
 
 
 <h2>Observações:</h2>
