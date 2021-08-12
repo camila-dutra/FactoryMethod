@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6JEiyAQaepA58tcAz4AfexI3LKkkzAR/30UOy0czktuhcfImxGkvsHnbmz32gx/P8D4e5lNzy1EMiKMSnyYrQ==",
+  "success": true,
+  "projectFilePath": "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\RunInss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UHC104159\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\UHC104159\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

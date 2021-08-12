@@ -1,0 +1,12 @@
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\bin\Debug\INSS.dll
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\bin\Debug\INSS.pdb
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
+C:\Users\UHC104159\Downloads\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb
+C:\TesteCamila\Problemas c#\Problemas\INSS\bin\Debug\INSS.dll
+C:\TesteCamila\Problemas c#\Problemas\INSS\bin\Debug\INSS.pdb
+C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
+C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
+C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb
