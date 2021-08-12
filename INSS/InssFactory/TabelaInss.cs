@@ -37,11 +37,7 @@ namespace INSS.InssFactory
             return faixas.Where(x => salario >= x.getSalarioMinFaixa()  && salario <= x.getSalarioMaxFaixa()).FirstOrDefault();
         }
 
-        public virtual decimal CalcularDesconto(decimal salario)
-        {
-            FaixaInss faixaSalario = GetFaixaSalarial(salario);
-            return (faixaSalario == null) ? getTeto() : salario * (faixaSalario.getAliquota() / 100);
-        }
+        public abstract decimal CalcularDesconto(decimal salario);
 
     }
 }

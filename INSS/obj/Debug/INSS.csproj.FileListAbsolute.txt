@@ -10,3 +10,9 @@ C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReferenc
 C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
 C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
 C:\TesteCamila\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\bin\Debug\INSS.dll
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\bin\Debug\INSS.pdb
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\obj\Debug\INSS.dll
+C:\TesteCamila\Problemas c#\FactoryMethod\Problemas\INSS\obj\Debug\INSS.pdb

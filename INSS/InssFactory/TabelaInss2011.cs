@@ -21,5 +21,11 @@ namespace INSS.InssFactory
             base.setTeto((decimal)405.86);
             base.setFaixas(faixas);
         }
+
+        public override decimal CalcularDesconto(decimal salario)
+        {
+            FaixaInss faixaSalario = base.GetFaixaSalarial(salario);
+            return (faixaSalario == null) ? base.getTeto() : salario * (faixaSalario.getAliquota() / 100);
+        }
     }
 }
