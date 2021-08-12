@@ -8,10 +8,12 @@ Foi utilizado o Visual Studio 2019 para a resolução do problema.
 
 
 Princípios do SOLID utilizados:
-* Single Responsability Principle: Uma classe deve ter apenas uma responsabilidade.Exemplo das classes CalculadorInss, FaixaInss.
+* Single Responsability Principle: Uma classe deve ter apenas uma responsabilidade.
 * Open Closed Principle: Entidades de software devem estar abertas para extensão e fechadas para modificação. Exemplo da classe TabelaInss.
-* Liskov Substitution Principle: Subclasses devem ser substituíveis por suas Superclasses. Exemplo da superclasse TabelaInss.
-* Dependency Inversion Principle: Módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações.  Exemplo da classe RunInss que depende da interface ICalculadorInss para fazer o calculo do desconto (por meio da utilização de Dependency Injection).
+* Liskov Substitution Principle: Subclasses devem ser substituíveis por suas Superclasses. Exemplo de utilização na classe CalculadorInss, por meio do InssFactory (Cria o objeto do tipo TabelaInss2011 e retorna ele como TabelaInss):
+![LSP](LSP.png)
+* Dependency Inversion Principle: Módulos de alto nível não devem depender de módulos de baixo nível, ambos devem depender de abstrações.  Exemplo da classe RunInss que depende da interface ICalculadorInss para fazer o calculo do desconto (por meio da utilização de Dependency Injection):
+![DIP](LSP.png)
 
 
 Design Pattern utilizado para resolver o problema:

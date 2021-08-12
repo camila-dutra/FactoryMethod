@@ -14,6 +14,7 @@ namespace INSS.Calculador
         {
             InssFactory.InssFactory inssFactory = new InssFactory.InssFactory();
 
+            //Liskov Substitution Principle
             TabelaInss tabelaInss = inssFactory.CreateTabelaInss(data);
 
             return tabelaInss.CalcularDesconto(salario);

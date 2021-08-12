@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\RunInss.csproj": {}
+    "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\RunInss\\RunInss.csproj": {}
   },
   "projects": {
-    "C:\\TesteCamila\\Problemas c#\\Problemas\\INSS\\INSS.csproj": {
+    "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\INSS\\INSS.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\TesteCamila\\Problemas c#\\Problemas\\INSS\\INSS.csproj",
+        "projectUniqueName": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\INSS\\INSS.csproj",
         "projectName": "INSS",
-        "projectPath": "C:\\TesteCamila\\Problemas c#\\Problemas\\INSS\\INSS.csproj"
+        "projectPath": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\INSS\\INSS.csproj"
       },
       "frameworks": {
         "net452": {}
       }
     },
-    "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\RunInss.csproj": {
+    "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\RunInss\\RunInss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\RunInss.csproj",
+        "projectUniqueName": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\RunInss\\RunInss.csproj",
         "projectName": "RunInss",
-        "projectPath": "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\RunInss.csproj",
+        "projectPath": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\RunInss\\RunInss.csproj",
         "packagesPath": "C:\\Users\\UHC104159\\.nuget\\packages\\",
-        "outputPath": "C:\\TesteCamila\\Problemas c#\\Problemas\\RunInss\\obj\\",
+        "outputPath": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\RunInss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,8 +41,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\TesteCamila\\Problemas c#\\Problemas\\INSS\\INSS.csproj": {
-                "projectPath": "C:\\TesteCamila\\Problemas c#\\Problemas\\INSS\\INSS.csproj"
+              "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\INSS\\INSS.csproj": {
+                "projectPath": "C:\\TesteCamila\\Problemas c#\\FactoryMethod\\Problemas\\INSS\\INSS.csproj"
               }
             }
           }

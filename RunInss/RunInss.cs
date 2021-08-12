@@ -7,7 +7,9 @@ namespace RunInss
 {
     public class RunInss
     {
+        // Dependency Inversion Principle
         ICalculadorInss calculadorInss;
+
         public RunInss(ICalculadorInss calculadorInss)
         {
             this.calculadorInss = calculadorInss;
