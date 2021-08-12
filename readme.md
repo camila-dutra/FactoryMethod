@@ -8,8 +8,11 @@ Foi utilizado o Visual Studio 2019 para a resolução do problema.
 
 
 <h2>Princípios do SOLID utilizados:</h2>
+
 * Single Responsability Principle: Uma classe deve ter apenas uma responsabilidade.
+
 * Open Closed Principle: Entidades de software devem estar abertas para extensão e fechadas para modificação. Exemplo da classe TabelaInss.
+
 * Liskov Substitution Principle: Subclasses devem ser substituíveis por suas Superclasses. Exemplo de utilização na classe CalculadorInss, por meio do InssFactory (Cria o objeto do tipo TabelaInss2011 e retorna ele como TabelaInss):
 
 ![LSP](LSP.png)
@@ -19,10 +22,12 @@ Foi utilizado o Visual Studio 2019 para a resolução do problema.
 
 
 <h2>Design Pattern utilizado para resolver o problema: </h2>
-* Utilizei o padrão criacional Factory Method para criar o objeto TabelaInss dentro do método CalcularDesconto, de forma que o objeto é criado sem necessidade de posterior modificação da classe CalculadorInss. 
+
+Utilizei o padrão criacional Factory Method para criar o objeto TabelaInss dentro do método CalcularDesconto, de forma que o objeto é criado sem necessidade de posterior modificação da classe CalculadorInss. 
 
 
 <h2>Observações:</h2>
+
 Na classe TabelaInss criei o método "virtual CalcularDesconto" para que outras classes possam dar um override neste método caso o cálculo do desconto do INSS sofra alguma modificação nos próximos anos. Para isso utilizei o modificador de acesso "virtual" e concentrei o calculo dentro da própria classe TabelaInss para evitar que a classe CalculadorInss tenha que sofrer alguma modificação no futuro.
 
 
